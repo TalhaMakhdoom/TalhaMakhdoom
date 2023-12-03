@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TalhaMakhdoom
-- 👀 I’m interested in Softare developing
+- 👀 I’m interested in Software developing
 - 🌱 I’m currently learning Computer Sciences
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
